@@ -1,4 +1,4 @@
-# TP-CS624_Team3_Personal Fitness App
+# Personal Fitness App
 
 The **Personal Fitness App** is a MERN stack mobile application designed to help users track their fitness activities, schedule workouts, monitor workout progress, and achieve their fitness goals effectively. 
 
