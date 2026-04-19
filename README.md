@@ -1,6 +1,6 @@
-# Personal Fitness App
+# Fitness App
 
-The **Personal Fitness App** is a MERN stack mobile application designed to help users track their fitness activities, schedule workouts, monitor workout progress, and achieve their fitness goals effectively. 
+The **Fitness App** is a MERN stack mobile application designed to help users track their fitness activities, schedule workouts, monitor workout progress, and achieve their fitness goals effectively. 
 
 #### **Key Features**
 - **Home Page:**
